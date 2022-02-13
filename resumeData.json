@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name": "Rohan Mhetar",
+    "occupation": "Computer Science Student",
+    "description": "I am an Undergraduate Computer Science Student at UT Austin",
+    "image": "profilepic.jfif",
+    "bio": "My interests in Computer Science lie in doing Mobile Development, Machine Learning, and Cybersecurity.",
+    "contactmessage": "If you would like to send me a message, do it here please.",
+    "email": "rohanvmhetar@gmail.com",
+    "phone": "936-242-5059",
+    "address": {
+      "street": "University of Texas at Austin",
+      "city": "Austin",
+      "state": "Texas",
+      "zip": "78321"
+    },
+    "website": "https://docs.google.com/document/d/1Vk5cSvB1TUGt1Ejh0mrbotA40jWIZkhK0lYn16Zk5CY/edit?usp=sharing",
+    "resumedownload": "https://docs.google.com/document/d/1Vk5cSvB1TUGt1Ejh0mrbotA40jWIZkhK0lYn16Zk5CY/edit?usp=sharing",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/mhetargaming",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rohan-mhetar-03a30916a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/rohanmhetar",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are my skills",
+    "education": [
+      {
+        "school": "University of Texas at Austin",
+        "degree": "B.S. in Computer Science",
+        "graduated": "2021 - 2025",
+        "description": "Courses: Computer Architecture, Data Structures, Discrete Mathematics, Linear Algebra"
+      },
+      {
+        "school": "The Woodlands High School",
+        "degree": "High School Diploma",
+        "graduated": "2017 - 2021",
+        "description": "National Merit Scholar, Top Ten in UIL Number Sense, Global Finalist in NASA Space Apps - COVID-19"
+      }
+    ],
+    "work": [
+      {
+        "company": "Michigan State University",
+        "title": "Machine Learning Research Fellow",
+        "years": "May 2020 - August 2020",
+        "description": "Developed a deep learning model that detects the bias of individual sentences using Python and machine learning libraries | Increased accuracy from 70 to 85 percent by introducing bidirectional LSTMs to classifier | Assisted over 50 students in CSE 231 (Introduction to Programming) under lecturer John Furcean"
+      },
+      {
+        "company": "NASA",
+        "title": "Sustainability Intern",
+        "years": "May 2020 - August 2020",
+        "description": "Designed an Android application that logs user interactions and determines COVID-19 risk | Simulated velocity fields of galaxies using Python and Google Colab | Created a classification program that is able to differentiate between the different types of stars"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "C",
+        "level": "60%"
+      },
+      {
+        "name": "C++",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "NABU Interface",
+        "category": "An app that detects risk for COVID-19",
+        "image": "nabuint.png",
+        "url": "https://github.com/Prometheus145/NABUInt-"
+      },
+      {
+        "title": "Biased News Detector",
+        "category": "Interactive biased news detector",
+        "image": "bias.jfif",
+        "url": "https://github.com/rohanmhetar/FakeMLv2"
+      },
+      {
+        "title": "RehabML",
+        "category": "Detects early dropout drug rehab patients",
+        "image": "rehab.png",
+        "url": "https://github.com/rohanmhetar/RehabML"
+      },
+      {
+        "title": "COVID-19 Web Simulator",
+        "category": "Simulates a town going through the COVID-19 pandemic",
+        "image": "city.png",
+        "url": "https://covid19.spaceappschallenge.org/challenges/covid-challenges/sdgs-and-covid-19/teams/sustemable/project"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Rohan is an expert programmer and an innovative mindset. One of a kind.",
+        "user": "Fernando Peraza, UT Austin Chemical Engineering"
+      },
+      {
+        "text": "Rohan is a good guy.",
+        "user": "Everyone on this planet"
+      }
+    ]
+  }
+}
